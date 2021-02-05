@@ -1,4 +1,4 @@
-package com.liujianwen.singleton;
+package com.liujianwen.designPattern.singleton;
 
 public class DoubleCheckSingleton {
     //双重检查锁

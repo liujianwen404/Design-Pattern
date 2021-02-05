@@ -1,4 +1,4 @@
-package com.liujianwen.singleton;
+package com.liujianwen.designPattern.singleton;
 
 public class HungrySingleton1 {
     //饿汉式-静态变量 因为是随着类一起创建，线程安全
